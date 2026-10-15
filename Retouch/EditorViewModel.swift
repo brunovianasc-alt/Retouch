@@ -1,6 +1,7 @@
 import CoreImage
 import CoreImage.CIFilterBuiltins
 import PhotosUI
+import SwiftUI
 import UIKit
 
 enum EditStyle: String, CaseIterable, Identifiable {
